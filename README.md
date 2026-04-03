@@ -90,7 +90,8 @@ Day 1: Introduction to RISC-V ISA and GNU Toolchain
 
 
 ## log
-<img width="948" height="361" alt="image" src="https://github.com/user-attachments/assets/73d7487e-d85f-4389-91ac-0c59ee61ff6f" />
+<img width="942" height="762" alt="image" src="https://github.com/user-attachments/assets/5f8d5718-c5fa-4452-86e2-f7dc932cb069" />
+
 
 
 ## Acknowledgments
