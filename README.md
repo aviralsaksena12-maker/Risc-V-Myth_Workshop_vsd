@@ -78,7 +78,9 @@ Day 1: Introduction to RISC-V ISA and GNU Toolchain
 ## FinalRiscV(RV32I)
  ## Diagram
 <img width="617" height="775" alt="Rv32Ifinal" src="https://github.com/user-attachments/assets/fd40a6bc-a1de-4515-8395-c006da492a2b" />
+
  ## Waveform
+ 
 <img width="915" height="752" alt="Rv32IWaveform" src="https://github.com/user-attachments/assets/438af2e1-cc3f-4c68-9c87-040ca70a0293" />
 
  ## Visualization
