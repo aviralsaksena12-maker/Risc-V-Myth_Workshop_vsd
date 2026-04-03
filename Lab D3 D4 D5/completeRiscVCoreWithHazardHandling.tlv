@@ -150,7 +150,7 @@
          $is_lui    = $dec_bits ==? 11'bx_xxx_0110111;
          $is_auipc  = $dec_bits ==? 11'bx_xxx_0010111;
          $is_jal    = $dec_bits ==? 11'bx_xxx_1101111;
-         $is_jalb   = $dec_bits ==? 11'bx_000_1100111;
+         $is_jalr   = $dec_bits ==? 11'bx_000_1100111;
          $is_sb     = $dec_bits ==? 11'bx_000_0100011;
          $is_sh     = $dec_bits ==? 11'bx_001_0100011;
          $is_sw     = $dec_bits ==? 11'bx_010_0100011;
@@ -289,7 +289,7 @@
          *passed = |cpu/xreg[17]>>5$value == (1+2+3+4+5+6+7+8+9);
          
          //CLEARING WARNINGS
-         `BOGUS_USE($is_addi $is_add $is_beq $is_bne $is_blt $is_bge $is_bltu $is_bgeu $imm $imem_rd_en $imem_rd_addr $rd $rs1 $rs2 $is_jalb $start $is_sral $start )
+         `BOGUS_USE($is_addi $is_add $is_beq $is_bne $is_blt $is_bge $is_bltu $is_bgeu $imm $imem_rd_en $imem_rd_addr $rd $rs1 $rs2 $is_jalr $start $is_sral $start )
       // Note: Because of the magic we are using for visualisation, if visualisation is enabled below,
       //       be sure to avoid having unassigned signals (which you might be using for random inputs)
       //       other than those specifically expected in the labs. You'll get strange errors for these.
