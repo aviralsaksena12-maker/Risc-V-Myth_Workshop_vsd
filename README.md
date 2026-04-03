@@ -86,6 +86,10 @@ Day 1: Introduction to RISC-V ISA and GNU Toolchain
  ## Visualization
 <img width="914" height="649" alt="rv32Iviz" src="https://github.com/user-attachments/assets/f32b987e-c9ea-45c2-9f2e-d07e86c217b0" />
 
+## log
+<img width="948" height="361" alt="image" src="https://github.com/user-attachments/assets/73d7487e-d85f-4389-91ac-0c59ee61ff6f" />
+
+
 ## Acknowledgments
 
     Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.
