@@ -1,4 +1,4 @@
-🏗️ RISC-V Architecture & ABI Essentials
+## 🏗️ RISC-V Architecture & ABI Essentials
 
 This document outlines the fundamental relationship between the Application Binary Interface (ABI), the Instruction Set Architecture (ISA), and the physical hardware implementation (RTL).
 1. The ABI: The Bridge Between Software and Hardware
