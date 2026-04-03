@@ -18,7 +18,7 @@ Table of Contents
 
     How to Use
 
-Introduction
+## Introduction
 
 The project involves designing a 5-stage RISC-V processor core that supports the RV32I Base Integer Instruction Set. The design is implemented using TL-Verilog (Transaction-Level Verilog) within the Makerchip IDE.
 Day 1: Introduction to RISC-V ISA and GNU Toolchain
@@ -31,7 +31,7 @@ Day 1: Introduction to RISC-V ISA and GNU Toolchain
 
     Lab: Calculated the sum of numbers from 1 to N using RISC-V assembly.
 
-Day 2: ABI and System Calls
+## Day 2: ABI and System Calls
 
     Understanding the Application Binary Interface (ABI) and register nomenclature (a0-a7, s0-s11, etc.).
 
@@ -39,7 +39,7 @@ Day 2: ABI and System Calls
 
     Analyzing the performance of different optimization flags (-Ofast, -O1).
 
-Day 3: Digital Logic with TL-Verilog and Makerchip
+## Day 3: Digital Logic with TL-Verilog and Makerchip
 
     Introduction to TL-Verilog and the Makerchip platform.
 
@@ -47,7 +47,7 @@ Day 3: Digital Logic with TL-Verilog and Makerchip
 
         Key Concept: Understanding Pipelined Logic and Validity.
 
-Day 4: RISC-V Microarchitecture Design
+## Day 4: RISC-V Microarchitecture Design
 
     Defining the Program Counter (PC) and Fetch logic.
 
@@ -55,7 +55,7 @@ Day 4: RISC-V Microarchitecture Design
 
     Register File Read/Write operations.
 
-Day 5: Pipelining and Final Core Implementation
+## Day 5: Pipelining and Final Core Implementation
 
     Implementing a 5-stage pipeline: Fetch, Decode, Execute, Memory, Writeback.
 
@@ -65,7 +65,7 @@ Day 5: Pipelining and Final Core Implementation
 
     Final Result: A functional RISC-V core capable of executing assembly programs.
 
-How to Use
+## How to Use
 
     Open the code in the Lab D3 D4 D5 folder.
 
@@ -75,7 +75,16 @@ How to Use
 
     Examine the waveform and diagrams to verify the processor's state.
 
-Acknowledgments
+## FinalRiscV(RV32I)
+ ## Diagram
+<img width="617" height="775" alt="Rv32Ifinal" src="https://github.com/user-attachments/assets/fd40a6bc-a1de-4515-8395-c006da492a2b" />
+ ## Waveform
+<img width="915" height="752" alt="Rv32IWaveform" src="https://github.com/user-attachments/assets/438af2e1-cc3f-4c68-9c87-040ca70a0293" />
+
+ ## Visualization
+<img width="914" height="649" alt="rv32Iviz" src="https://github.com/user-attachments/assets/f32b987e-c9ea-45c2-9f2e-d07e86c217b0" />
+
+## Acknowledgments
 
     Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.
 
