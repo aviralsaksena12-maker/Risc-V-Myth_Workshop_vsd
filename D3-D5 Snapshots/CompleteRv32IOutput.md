@@ -1,12 +1,13 @@
 ## Diagram
 
-<img width="617" height="775" alt="Rv32Ifinal" src="https://github.com/user-attachments/assets/38f04360-9c4f-4c00-9df5-e549b0d95ce4" />
+<img width="383" height="706" alt="Screenshot 2026-04-03 213222" src="https://github.com/user-attachments/assets/f619f55d-1cc4-4dd9-b1dd-98da214ee5f6" />
+
 
 ## WaveForm
-<img width="915" height="752" alt="Rv32IWaveform" src="https://github.com/user-attachments/assets/a7472a05-8172-4866-9d60-83de8f29d20b" />
+<img width="959" height="750" alt="Screenshot 2026-04-03 213153" src="https://github.com/user-attachments/assets/894283e3-cc5a-49e0-ab3b-8c4795764a6b" />
+
 
 ## Visualization
 
 
-<img width="914" height="649" alt="rv32Iviz" src="https://github.com/user-attachments/assets/41a74c3b-d523-49f9-87e7-038c2fed4ef0" />
-
+<img width="864" height="522" alt="Screenshot 2026-04-03 213136" src="https://github.com/user-attachments/assets/77451878-035e-45e3-84d4-e715e8e20376" />
