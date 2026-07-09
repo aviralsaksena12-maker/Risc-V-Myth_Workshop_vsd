@@ -16,7 +16,7 @@ Table of Contents
 
     Day 5: Pipelining and Final Core Implementation
 
-    How to Use
+    
 
 ## Introduction
 
